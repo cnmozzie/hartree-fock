@@ -1,3 +1,3 @@
 # [Hartree Fork method for small atom](https://yyrcd.com/hf)
-Helium, Lithium, Beryllium, Carbon
+Helium, Lithium, Beryllium, Boron, Carbon, Neon
 
